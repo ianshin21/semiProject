@@ -1,0 +1,111 @@
+/* 공동구매 및 중고거래 css*/
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.box {
+    width: 1000px;
+    height: 75%;
+    margin: 0 auto;
+    padding-left: 60px;
+    position: relative;
+}
+
+body{
+    color: #444444;
+}
+
+li{
+    list-style: none;
+}
+
+.clear{
+    clear: both; 
+}
+
+.items{
+    background-color: white;
+    width: 175px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+}
+
+.items .item_name{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.items .price{
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+#content_box {
+    width: 1000px;
+    padding-top: 50px;
+    background-color: rgb(239, 187, 180);
+    height: 80%;
+}
+
+#content_box h1{
+    padding-bottom: 30px;
+    float: left;
+    margin-left: 400px;
+}
+
+#content_box p{
+    float: right;
+}
+
+
+#item{
+    background-color:#f56b6b;
+    color: white;
+    padding: 5px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 70px;
+}
+#pageBar {
+	width:800px;
+	margin-left:100px;
+
+}
+#Abutton{
+	width:50px;
+	height:30px;
+	border-radius:10px;
+	margin-right: 30px;
+	margin-top:20px;
+}
+#picarea{
+	
+	border:1px solid black;
+	width:100px;
+	margin-left: 100px;
+	height:100px;
+}
+#blank{
+	width:50px;
+}
+#heightblank{
+	height:30px;
+}
+#tbl-board{
+	
+	margin-left:100px;
+}
+

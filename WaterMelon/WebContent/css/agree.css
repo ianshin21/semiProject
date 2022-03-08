@@ -1,0 +1,64 @@
+        /* 약관동의 */
+        * {margin: 0;}
+        
+        #agree_form {
+            padding-top: 15px;
+            /*border: 1px solid black;*/
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
+        #agree_check {
+            /* border: 1px solid black; */
+            margin-left: 250px;
+        }
+        #agree_text1>Strong {
+            color: grey;
+            font-size: medium;
+            margin-left: 20px;
+        }
+        #agree_text_group {
+            margin-left: 130px;
+            margin-top: 20px;
+        }
+        #agree_text_group2 {
+            margin-top: 30px;
+            margin-left: 390px;
+        }
+        #agree_button_group {
+            margin-left: 280px;
+        }
+        #agree_button1 {
+            border: 0px ;
+            width: 100px;
+            height: 30px;
+            border-radius: 3px;
+            background-color: rgb(255, 115, 115);;
+        }
+        #agree_button2 {
+            border: 0px ;
+            width: 100px;
+            height: 30px;
+            border-radius: 3px;
+            background-color: rgba(102, 102, 102, 0.493);
+        }
+        .checkbox_list {
+            list-style: none;
+        }
+        .type_all_check {
+            /* border: 1px solid black; */
+            width: 180px;
+            margin-left: 650px;
+            margin-top: 50px;
+            position: absolute;
+        }
+        .m_check_wrap2 {
+            margin-top: 238px;
+            margin-left: 650px;
+            position: absolute;
+        }
+        .m_check_wrap3 {
+            margin-top: 440px;
+            margin-left: 650px;
+            position: absolute;
+        }

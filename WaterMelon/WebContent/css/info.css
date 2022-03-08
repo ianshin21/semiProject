@@ -1,0 +1,70 @@
+        /* content */
+        #article_contents {
+            background-color: white;
+            border: 1px solid darkgray;
+            border-radius: 10px;
+            height: 550px;
+            width: 100%;
+            position: relative;
+            top: 5px;
+            display: block;
+        }
+        section h2 {
+            color:rgb(94, 94, 94);
+            text-align: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        /* 정보수정 */
+        #article {
+            background-color: rgb(237, 237, 237);
+            border-radius: 10px;
+            width: 650px;
+            height: 470px;
+            /* position: absolute; */
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            margin:0 auto; 
+        }
+        .btn {
+            background-color: rgb(127, 127, 127);
+            color: white;
+            width: 100px;
+            height: 30px;
+            border: none;
+            border-radius: 10px;
+            position: relative;
+            margin: 20px;
+            top: 30px;
+            cursor: pointer;
+        }
+        #btn {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+      
+        #memberFrm	{
+            width:450px; 
+            margin:20px auto; 
+            /* border:1px solid black;  */
+            border-collapse:collapse; 
+            clear:both;
+            position: relative;
+            top: 70px;
+        }
+        
+        #memberFrm th {
+            width:60px;
+            /* border:1px solid; */
+            text-align:left;
+        }
+        
+        #memberFrm td  input {
+            width: 370px;
+            padding:5px 10px 5px 10px;
+            margin-top: 5px;
+            text-align:left;
+        }

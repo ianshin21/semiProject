@@ -1,0 +1,59 @@
+        * {
+            margin: 0;
+        }
+        h4 {
+            margin-left: 45%;
+            line-height: 45px;
+            color: grey;
+            font-size: medium;
+        }
+        #div1 {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgb(239, 187, 180);
+            position: relative;
+        }
+        #div2 {
+            background-color: white;
+            position: absolute;
+            margin-left: 20px;
+            width: 95%;
+            height: 85%;
+        }
+        #enroll_button {
+            background-color: rgb(255, 115, 115);
+            margin-top: 5px;
+            color: white;
+            width: 148px;
+            height: 30px;
+            border: rgb(255, 115, 115);
+            border-radius: 5px;
+        }
+        #enroll_exit {
+            /*margin-top: 20px;*/
+            background-color: rgb(255, 115, 115);
+            color: white;
+            width: 148px;
+            height: 30px;
+            border: rgb(255, 115, 115);
+            border-radius: 5px;
+        }
+        #id_Duplicate {
+            background-color: rgb(138, 138, 138);
+            border: rgb(138, 138, 138);
+            border-radius: 10px;
+            color: white;
+            width: 80px;
+            height: 30px;
+        }
+        #enroll_form {
+            margin: 0;
+            margin-left: 30%;
+        }
+        
+        #memberId, #password1, #password2, #memberName, #nickName, #phone, #address, #email {
+        	width:300px;
+        	height:30px;	
+        }
+        

@@ -1,0 +1,48 @@
+/* 마이페이지 css */
+.mypage{
+	padding-left: 80px;
+    width: 800px;
+    height: 300px;
+}
+
+.my_content{
+    border-right:1px solid gray;
+    width: 250px;
+    height:100px;
+    margin-left: 25px;
+    margin-top: 160px;
+}
+
+.my_menu{
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    width: 650px;
+    height:100px;
+}
+
+.my_menu ul{
+    float: left;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    list-style: none;
+    text-align: center;
+}
+
+.menu{
+    text-align: center;
+    float: right;
+}
+
+.my_menu img{
+    width: 60px;
+    height: 60px;
+}
+
+.my_menu a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+ 
